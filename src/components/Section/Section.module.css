@@ -6,19 +6,8 @@
   padding: 0px 30px 0px;
 }
 
-.title1 {
-    text-transform: uppercase;
-    
- 
+.title {
   font-size: 28px;
   font-weight: 700;
   color: rgb(39, 27, 16);
 }
-
-.title2 {
-    
-    font-size: 22px;
-    font-weight: 700;
-    color: rgb(39, 27, 16);
-  }
-  

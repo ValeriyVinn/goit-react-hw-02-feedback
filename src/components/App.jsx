@@ -33,13 +33,13 @@ export class App extends Component {
 
     return (
       <div className="main">
-        <Section title1="Please leave feedback">
+        <Section title="Please leave feedback">
           <FeedbackOptions
             options={options}
             onLeaveFeedback={this.handleLeaveFeedback}
           />
         </Section>
-        <Section title2="Statistics">
+        <Section title="Statistics">
           {this.countTotalFeedback() > 0 ? (
             <Statistics
               good={good}

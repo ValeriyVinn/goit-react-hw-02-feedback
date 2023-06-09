@@ -1,4 +1,4 @@
-/* @import-normalize; */
+ @import-normalize; bring in normalize.css styles
 
 body {
   margin: 0;
@@ -20,7 +20,7 @@ code {
   flex-direction: column;
   align-items: flex-start;
   width: 400px;
-  height: 400px;
+  height: 350px;
   margin: auto;
   margin-top: 20px;
   border-radius: 5px;
